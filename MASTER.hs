@@ -1,4 +1,4 @@
----Práctica 1 - Emiliano García Bollás
+---Práctica 1 (CORREGIDA)- Emiliano García Bollás 
 ----------------------------------------------------------
 ---1. Función para calcular la distancia entre dos puntos
 distanciaPuntos :: (Float,Float) -> (Float,Float) -> (Float)
